@@ -1,0 +1,74 @@
+Improving Web Search Ranking by Incorporating User Behavior Information
+http://www.mathcs.emory.edu/~eugene/papers/sigir2006ranking.pdf
+
+Measuring Search Engine Quality
+http://david-hawking.net/pubs/hawking_ir01_copyright.pdf
+
+
+
+
+
+Proposal Ideas
+1) An Outsider's Survey of How Google Search Works
+  - Larry and Sergey's seminal paper on PageRank
+  - Patent:  Ranking search results by reranking the results based on local inter-connectivity
+    https://www.google.com/patents/US6725259
+
+
+
+2) How Search Engines Impact Business (education? third-world? politics? most broad:  Social Impact of Search Engine Ranking) (growing text retrieval chalenges for business)
+
+All topics: survey book of search engine's impact on many areas
+  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.8268&rep=rep1&type=pdf#page=177
+
+
+== Politics ==
+- Shaping the Web: Why the Politics of Search Engines Matters
+  http://www.nyu.edu/projects/nissenbaum/papers/ShapingTheWeb.pdf
+- Learning the Internet and the Structure of Information Behavior
+  https://www.researchgate.net/publication/220434755_Learning_the_Intert_and_the_Structure_of_Information_Behavior
+- Search Engine Bias and the Demise of Search Engine Utopianism
+  http://digitalcommons.law.scu.edu/cgi/viewcontencgi?article=1112&context=facpubs
+- Book:  The Structure of Search Engine Law
+  http://digitalcommons.law.umaryland.edu/cgi/viewcontencgi?article=2416&context=fac_pubs
+- Search Engine Coverage Bias: Evidence and Possible Causes
+  https://www.researchgate.net/profile/Mike_Thelwall/publication/222674178_Search_engine_coverage_bias_Evidence_and_possible_causes/links/0912f51333fac3ddef000000.pdf
+
+
+== Social ==
+- Children's use of Yahooligans! Web search engine: II. Cognitive and physical behaviors on research tasks
+    https://www.researchgate.net/profile/Dania_Bilal/publication/220434642_Children's_use_of_the_Yahooligans!_Web_search_engine_I._Cognitive_physical_and_affective_behaviors_on_fact-based_tasks/links/00463526878080ce46000000.pdf
+
+
+== Business ==
+(how results can sink/sail a business like travel/hotel. how businesses define a strategy around search. how advertising industry changed.)
+- The Economics of Internet Search
+  http://people.ischool.berkeley.edu/~hal/Papers/2007/costa-lecture.pdf
+- The Economics of Search Engines – Search, Ad Auctions & Game Theory
+  http://studenttheses.cbs.dk/bitstream/handle/10417/1558/jacob_hansen.pdf?sequence=1
+- An Overview of Business Intelligence Technology
+  http://m.cacm.acm.org/magazines/2011/8/114953-an-overview-of-businesintelligence-technology/fulltext
+- Larry and Sergey's paper:  discusses advertising model at the end
+  http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf
+- So you want to get involved in E-commerce
+  http://www.sciencedirect.com/science/article/pii/S0019850101001882
+- An Empirical Analysis of Search Engine Advertising: Sponsored Search in Electronic Markets
+  https://www.researchgate.net/profile/A_Ghose/publication/228234045_An_Empirical_Analysis_of_Search_Engine_Advertising_Sponsored_Search_in_Electronic_Markets/links/5426a9350cf238c6ea79e569.pdf
+- The Dynamics of Competition in the Internet Search Engine Market (examine the evolution and competition of advertising)
+  http://escholarship.org/uc/item/0h17g08v#page-1
+- The Online Advertising Industry: Economics, Evolution, and Privacy
+  http://www.ae.emobitise.com/ela-download-material/CDM/EvansEOAI.pdf
+- (seems weak) Optimal Search Engine Marketing Strategy
+  http://citythink.es/web/wp-content/uploads/pdf/OptimalSearchEngineMarketingStrategy.pdf
+- Search Engine Advertising: Channel Substitution when Pricing Ads to Context
+  http://dspace.mit.edu/bitstream/handle/1721.1/65335/Tucker_Search%20Engine.pdf?sequence=1
+- Is Relevance Relevant? Market, Science, and War: Discourses of Search Engine Quality
+  http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00354.x/full
+- Travel queries on cities in the United States: Implications for search engine marketing for tourist destinations
+  https://www.researchgate.net/profile/Zheng_Xiang5/publication/222705219_Travel_queries_on_cities_in_the_United_States_Implications_for_search_engine_marketing_for_tourist_destinations/links/00b7d5147125075257000000.pdf
+- An Empirical Analysis of Sponsored Search Performance in Search Engine Advertising
+  http://uxscientist.com/public/docs/uxsci_12.pdf
+
+
+
+
