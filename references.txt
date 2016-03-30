@@ -33,6 +33,14 @@ All topics: survey book of search engine's impact on many areas
   http://digitalcommons.law.umaryland.edu/cgi/viewcontencgi?article=2416&context=fac_pubs
 - Search Engine Coverage Bias: Evidence and Possible Causes
   https://www.researchgate.net/profile/Mike_Thelwall/publication/222674178_Search_engine_coverage_bias_Evidence_and_possible_causes/links/0912f51333fac3ddef000000.pdf
+- From Obscurity to Prominence in Minutes: Political Speech and Real-Time Search http://repository.wellesley.edu/computersciencefaculty/9/
+
+
+
+== BOTH BUSINESS AND POLITICAL ==
+- Beliefs and Biases in Web Search http://research.microsoft.com/en-us/um/people/ryenw/papers/WhiteSIGIR2013.pdf
+- The Social, Political, Economic, and Cultural Dimensions of Search Engines: An Introduction http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00349.x/full
+
 
 
 == Social ==

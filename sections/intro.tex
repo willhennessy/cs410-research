@@ -1,37 +1,9 @@
 \documentclass[../main-paper.tex]{subfiles}
 
 \begin{document}
-In 1970, Bloom \cite{Bloom:70} introduced the Bloom filter: a simple, space-efficient, randomized data-structure for representing a set. The Bloom filter supports membership queries in constant time, but has the drawback of a false positive error rate. This flaw is countered by extreme space efficiency and speed, so Bloom filters find their home in systems that demand performance. One of the most common domains is computer networking, where an extended survey has been written on Bloom filters \cite{broder2003}. These performance characteristics, simplicity in implementation, and straightforward mapping to hardware are some of the reasons why Bloom filters are used in practice today.
+Begin with citation of the paper
 
-\subsection{Summary of Bloom Filters}
-A \emph{Bloom Filter} $\mathcal{B}$ is a data structure that represents a set $S$ of $n$ elements from a universe $\mathcal{U}$ using a bit array $\mathcal{B}[1..m]$ and a set of $k$ hash functions $h_i : \mathcal{U} \to [m]$, $i \in [k]$. For each element $x \in S$, set $\mathcal{B}[h_i(x)] \gets 1$ for all $i \in [k]$. A query for $y \in_? S$, responds ``yes'' if $\mathcal{B}[h_i(y)] = 1$ for all $i \in [k]$, and ``no'' otherwise. Clearly if $y \in S$, then the filter responds ``yes''; however, false positives can occur.
-
-It is well known that the false positive rate is minimized when $k = \ln 2 \cdot m/n$ \cite{jeffe2015bloom} and the Bloom filter obeys the following assumptions:
-
-\begin{enumerate}
-\item Each hash function is independent and ideal
-\item Each item in the universe is independent of every other item
-\item Each item in the universe is a member of the set $S$ with equal likelihood
-\item Each item in the universe is queried with equal likelihood
-\end{enumerate}
-
-\subsection{Outline and Goals}
-
-The main goal of this paper is to propose ways to improve on the Bloom Filter. Our proposals largely fall into one of the two categories:
-
-\begin{enumerate}
-\item Reducing false positive rate
-\item Reducing space
-\end{enumerate}
-
-It is easy to see that there is a tradeoff between false positive rate and space: in order to reduce the false positive rate, we must increase space, and vice versa. Our proposals aim to either greatly reduce false positive rate while incurring a small increase in space usage, or greatly reduce space usage while incurring a small increase in false positive rate.
-
-We give a few proposals:
-\begin{itemize}
-\item Consider that we now assume non-uniform membership and query likelihood. Then we can ``tune'' the Bloom Filter based on these more complicated distributions. In Section 2, we explore this problem in both the offline setting, where these distributions are known beforehand, and in the online setting, where we do not.
-\item Azar et al.~\cite{Azar:1999:BA:330358.330366} introduced the power of two choices technique, which has resulted in many interesting results. In Section 3, we summarize the experimental results of Lumetta et al.~\cite{lumetta2007} on using this idea to improve on Bloom Filters, and explore further directions in this area.
-\item In Section 4, we once again revisit the non-uniform membership and query distribution model. We propose a method that, given a finite universe $\mathcal{U}$, allows us to systematically reduce the amount of space used as queries come streaming in.
-\item Section 5 summarizes an early idea we had to improve Bloom Filters; unfortunately, we quickly found that the idea results in failure.
-\end{itemize}
+\subsection{Subsection Title}
+blah blah
 
 \end{document}
