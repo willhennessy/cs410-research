@@ -22,6 +22,11 @@ All topics: survey book of search engine's impact on many areas
   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.8268&rep=rep1&type=pdf#page=177
 
 
+== Social ==
+- Children's use of Yahooligans! Web search engine: II. Cognitive and physical behaviors on research tasks
+    https://www.researchgate.net/profile/Dania_Bilal/publication/220434642_Children's_use_of_the_Yahooligans!_Web_search_engine_I._Cognitive_physical_and_affective_behaviors_on_fact-based_tasks/links/00463526878080ce46000000.pdf
+
+
 == Politics ==
 - Shaping the Web: Why the Politics of Search Engines Matters
   http://www.nyu.edu/projects/nissenbaum/papers/ShapingTheWeb.pdf
@@ -37,46 +42,19 @@ All topics: survey book of search engine's impact on many areas
 
 
 
-== BOTH BUSINESS AND POLITICAL ==
-- Beliefs and Biases in Web Search http://research.microsoft.com/en-us/um/people/ryenw/papers/WhiteSIGIR2013.pdf
-- The Social, Political, Economic, and Cultural Dimensions of Search Engines: An Introduction http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00349.x/full
-
-
-
-== Social ==
-- Children's use of Yahooligans! Web search engine: II. Cognitive and physical behaviors on research tasks
-    https://www.researchgate.net/profile/Dania_Bilal/publication/220434642_Children's_use_of_the_Yahooligans!_Web_search_engine_I._Cognitive_physical_and_affective_behaviors_on_fact-based_tasks/links/00463526878080ce46000000.pdf
-
 
 == Business ==
 (how results can sink/sail a business like travel/hotel. how businesses define a strategy around search. how advertising industry changed.)
 - The Economics of Internet Search
   http://people.ischool.berkeley.edu/~hal/Papers/2007/costa-lecture.pdf
+- The Social, Political, Economic, and Cultural Dimensions of Search Engines: An Introduction http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00349.x/full
 - The Economics of Search Engines – Search, Ad Auctions & Game Theory
   http://studenttheses.cbs.dk/bitstream/handle/10417/1558/jacob_hansen.pdf?sequence=1
 - An Overview of Business Intelligence Technology
   http://m.cacm.acm.org/magazines/2011/8/114953-an-overview-of-businesintelligence-technology/fulltext
-- Larry and Sergey's paper:  discusses advertising model at the end
-  http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf
-- So you want to get involved in E-commerce
-  http://www.sciencedirect.com/science/article/pii/S0019850101001882
-- An Empirical Analysis of Search Engine Advertising: Sponsored Search in Electronic Markets
-  https://www.researchgate.net/profile/A_Ghose/publication/228234045_An_Empirical_Analysis_of_Search_Engine_Advertising_Sponsored_Search_in_Electronic_Markets/links/5426a9350cf238c6ea79e569.pdf
+
+  ?? maybe this one?
 - The Dynamics of Competition in the Internet Search Engine Market (examine the evolution and competition of advertising)
   http://escholarship.org/uc/item/0h17g08v#page-1
-- The Online Advertising Industry: Economics, Evolution, and Privacy
-  http://www.ae.emobitise.com/ela-download-material/CDM/EvansEOAI.pdf
-- (seems weak) Optimal Search Engine Marketing Strategy
-  http://citythink.es/web/wp-content/uploads/pdf/OptimalSearchEngineMarketingStrategy.pdf
-- Search Engine Advertising: Channel Substitution when Pricing Ads to Context
-  http://dspace.mit.edu/bitstream/handle/1721.1/65335/Tucker_Search%20Engine.pdf?sequence=1
-- Is Relevance Relevant? Market, Science, and War: Discourses of Search Engine Quality
-  http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00354.x/full
-- Travel queries on cities in the United States: Implications for search engine marketing for tourist destinations
-  https://www.researchgate.net/profile/Zheng_Xiang5/publication/222705219_Travel_queries_on_cities_in_the_United_States_Implications_for_search_engine_marketing_for_tourist_destinations/links/00b7d5147125075257000000.pdf
-- An Empirical Analysis of Sponsored Search Performance in Search Engine Advertising
-  http://uxscientist.com/public/docs/uxsci_12.pdf
-
-
 
 
