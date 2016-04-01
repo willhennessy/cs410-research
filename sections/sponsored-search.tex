@@ -1,0 +1,29 @@
+\documentclass[../summaries.tex]{subfiles}
+
+\begin{document}
+
+\subsection{Citation}
+Ghose, Anindya, and Sha Yang. "An empirical analysis of sponsored search performance in search engine advertising." Proceedings of the 2008 International Conference on Web Search and Data Mining. ACM, 2008.
+
+\subsection{Summary}
+Businesses have many choices when it comes to online advertising. In search engines, the predominant ad form is "sponsored searches" in which the advertiser pays a fee to appear next to organic search results. For example, a consumer who searches for "digital camera" is likely to see artificial advertisements from Kodak or Nikon near the top of their search results because those companies paid for ad space in queries for the "digital camera" keyword. These companies can purchase many different sets of keywords, making the decision of which keywords to purchase and how much to pay for them an important one. The decision will dramatically impact the success of a marketing campaign.
+
+This paper empirically models the relationship between keywords, click-through rates, and conversion rates by analyzing a real world dataset from a large retail company. The data is fit into a hierarchical Bayesian framework and then run through Markov Chain Monte Carlo methods to estimate the results. The goal is to examine how click-through rates and conversion rates are affected by the following three characteristics of a keyword:
+
+\begin{enumerate}
+\item \textbf{Brand:}  does the keyword contain a brand name? (i.e. Kodak, Nikon)
+\item \textbf{Retailer:}  does the keyword contain a retailer name? (i.e. Best Buy, Amazon)
+\item \textbf{Length:}  how many words are in this keyword? (i.e. "camera" vs. "black dslr HD camera")
+\end{enumerate}
+
+\textbf{Impact on Click-Through Rates}
+
+The first interesting result is that keyword advertisements with retailer-specific terms cause a 28.31\% increase in click-through rates. This confirms the belief that users actually enjoy advertisements when they search for a specific retailer. In a surprising contrast, keywords containing a specific brand have no statistically significant effect on click-through rates. Finally, the length of the keyword is inversely related to click-through rates; an increase in length by one word decreases the click-through rates by 6.6\%.
+
+\textbf{Impact on Conversion Rates}
+
+Keywords containing a brand-specific term experience an increase in conversion rates by 21.35\%. This finding is important to businesses because it confirms that branded keywords are extremely valuable to the advertiser. Conversion rates are also impact by click-through rates. If the click-through rate is increased from the minimum (0.0) to the maximum (1.0), the conversion rate increases by 63.31\%. However, this increase is dwarfed by the impact of rank:  an ad that moves from the worst rank (bottom of page) to the best rank (top of page) yields an increased conversion rate of 99.97\%.
+
+Businesses can use these statistics to choose the optimal budget for keywords based on brand, retailer, and length.
+
+\end{document}
